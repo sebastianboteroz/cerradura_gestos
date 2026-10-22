@@ -1,2 +1,2 @@
-0 Abre
-1 Cierra
+0 consebas
+1 sinsebas
